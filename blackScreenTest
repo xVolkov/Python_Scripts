@@ -1,0 +1,4 @@
+> Contains all needed source code to run a remote/local light intensity check on a surface using an Arduino Uno R3 with a VEML7700 light sensor.
+> Returns whether the surface is lit or not based on a set LUX (light intensity) threshold
+
+*** CHECK README.TXT FILE IN REPO ***
